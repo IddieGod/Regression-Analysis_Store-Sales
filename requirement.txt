@@ -1,0 +1,23 @@
+Here's the list of libraries and packages used in this project
+
+1. pandas
+2. numpy
+3. dotenv
+4. matplotlib.pyplot (part of matplotlib)
+5. seaborn
+6. plotly.express (part of plotly)
+7. scikit-learn (commonly imported as sklearn)
+8. scipy.stats
+9. statsmodels.tsa.stattools (part of statsmodels)
+10. statsmodels.graphics.tsaplots (part of statsmodels)
+11. sklearn.metrics
+12. sklearn.impute
+13. sklearn.preprocessing.OneHotEncoder
+14. sklearn.linear_model.LinearRegression
+15. sklearn.tree.DecisionTreeRegressor
+16. sklearn.ensemble.RandomForestRegressor
+17. sklearn.neighbors.KNeighborsRegressor
+18. sklearn.svm.SVR
+19. statsmodels.tsa.api.AutoReg
+20. sklearn.model_selection.GridSearchCV
+21. pyodbc
